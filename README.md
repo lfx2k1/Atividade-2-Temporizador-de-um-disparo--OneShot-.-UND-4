@@ -33,7 +33,7 @@ Cabo USB: Para alimentação e comunicação serial com o Raspberry Pi Pico.
 ## 2. Compilação e Upload
 Clone este repositório: git clone https://github.com/lfx2k1/Atividade-2-Temporizador-de-um-disparo-OneShot-UND-4.git
 
-cd Atividade-2-Atividade-2-Temporizador-de-um-disparo-OneShot-UND-4
+cd Atividade-2-Temporizador-de-um-disparo-OneShot-UND-4
 
 Compile o código
 
