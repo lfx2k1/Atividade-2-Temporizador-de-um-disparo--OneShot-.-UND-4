@@ -7,8 +7,11 @@ Este projeto implementa um sistema de temporização para acionamento de LEDs a 
 Os LEDs utilizados são:
 
 Verde (GPIO 11)
+
 Azul (GPIO 12)
+
 Vermelho (GPIO 13)
+
 O botão de entrada está conectado à GPIO 5.
 
 ## Funcionamento
